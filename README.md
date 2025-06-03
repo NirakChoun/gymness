@@ -1,4 +1,4 @@
-# 🏋️ Workout Planner
+# 🏋️ Gymness
 
 A full-stack Workout Planner web app that allows users to create, manage, and organize their workout routines efficiently. Built using React, Tailwind CSS, and protected authentication routes.
 
